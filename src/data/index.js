@@ -75,42 +75,42 @@ export const testimonials = [
     id: 1,
     name: 'Jennifer B',
     rating: 5,
-    image: 'path/to/profile-image-1.jpg',
+    image: 'https://via.placeholder.com/60x60/4F46E5/white?text=JB',
     text: 'Little Learners Academy has been a second home for my child. The caring staff and engaging programs have made her excited to go to school every day!'
   },
   {
     id: 2,
     name: 'David K',
     rating: 4,
-    image: 'path/to/profile-image-2.jpg',
+    image: 'https://via.placeholder.com/60x60/4F46E5/white?text=DK',
     text: 'Choosing Little Learners Academy for my daughter was the best decision. She has thrived in their nurturing and stimulating environment.'
   },
   {
     id: 3,
     name: 'Emily L',
     rating: 5,
-    image: 'path/to/profile-image-3.jpg',
+    image: 'https://via.placeholder.com/60x60/4F46E5/white?text=EL',
     text: 'My son\'s social and academic growth has been remarkable since joining Little Learners Academy. I am grateful for the supportive and dedicated teachers.'
   },
   {
     id: 4,
     name: 'Michael R',
     rating: 5,
-    image: 'path/to/profile-image-4.jpg',
+    image: 'https://via.placeholder.com/60x60/4F46E5/white?text=MR',
     text: 'The teachers at Little Learners Academy truly care about each child. My daughter has developed confidence and a love for learning that will last a lifetime.'
   },
   {
     id: 5,
     name: 'Sarah M',
     rating: 4,
-    image: 'path/to/profile-image-5.jpg',
+    image: 'https://via.placeholder.com/60x60/4F46E5/white?text=SM',
     text: 'Outstanding curriculum and wonderful staff! My child looks forward to school every day and has made amazing progress in all areas of development.'
   },
   {
     id: 6,
     name: 'Robert T',
     rating: 5,
-    image: 'path/to/profile-image-6.jpg',
+    image: 'https://via.placeholder.com/60x60/4F46E5/white?text=RT',
     text: 'Little Learners Academy provides the perfect balance of learning and fun. The individualized attention has helped my son flourish academically and socially.'
   }
 ];
